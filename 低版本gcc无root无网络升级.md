@@ -62,3 +62,11 @@ export PATH=/home/dhh/gcc-7.3.0/bin:$PATH
 执行 `source ~/.bashrc`，使修改生效。再次执行 `gcc --version`，显示的是7.3.0
 
 <img src="imgs/gcc2.png" alt="gcc2" />
+
+## 参考
+
+[1] [Linux下编译安装GCC 4.9.4](https://caosiyang.github.io/posts/2016/05/04/installing-gcc/)
+
+[2] [编译GCC及其多版本并存控制](https://programtip.com/zh/art-899)
+
+[3] [Tools: Ubuntu 编译安装gcc杂记](https://www.qedev.com/linux/181899.html)
